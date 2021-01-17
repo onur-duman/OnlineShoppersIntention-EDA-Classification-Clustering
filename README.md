@@ -1,20 +1,25 @@
-## MUGLA SITKI KOCMAN UNIVERSITY 
-### COMPUTER ENGINEERING 
-### DATA MINING (CENG 3521) FINAL PROJECT
+# OnlineShoppersIntention-EDA-Classification-Clustering
+This repository includes our 2020-2021 Fall Semester Data Mining(CENG3521) Class Final Project. We've used Python language to code and Jupyter Notebook for IDE. And Numpy, Pandas, Matplotlib, Seaborn and Sklearn are libraries which are used for it.
 
-# ONLINE SHOPPERS INTENTION 
+## Team Members(Sorted by Name)
+* Ahmet GÜRBÜZ(170709006)
+* Murat GÜN(170709054)
+* Onur DUMAN(170709056)
+
+# About The Online Shoppers Intention Dataset
 
 ![1](https://www.further.co.uk/wp-content/uploads/2019/04/onlineshoppers002.jpg)
-##### Data Set Information:
+
+## Dataset Information:
 
 The dataset consists of feature vectors belonging to 12,330 sessions.
 The dataset was formed so that each session would belong to a different user in a 1-year period to avoidany tendency to a specific campaign, special day, user profile, or period.
 
-##### Dataset Origin:
+## Dataset Origin:
 
 https://archive.ics.uci.edu/ml/datasets/Online+Shoppers+Purchasing+Intention+Dataset
 
-##### Source:
+## Source:
 
 C. Okan Sakar
 Department of Computer Engineering, Faculty of
@@ -25,7 +30,11 @@ Yomi Kastro
 Inveon Information Technologies Consultancy and Trade,
 34335 Istanbul, Turkey
 
-##### Relevant Papers
+## Relevant Papers
+
+Sakar, C.O., Polat, S.O., Katircioglu, M. et al. Neural Comput & Applic (2018)
+
+# Jupyter Notebook Content
 
 * [Importing Data](#1)
 * [First-Looking to Data and Analyzing](#2)
@@ -55,6 +64,13 @@ Inveon Information Technologies Consultancy and Trade,
         * [Accuracy](#29)
         * [Cross Validation](#30)
     * [MLPClassifier with Different Hidden Layer Sizes](#31)
+    * [k-NN](#20)
+        * [Finding Optimum K](#44)
+        * [Creating Model with Optimum K](#45)
+        * [Fitting](#46)
+        * [Prediction](#47)
+        * [Accuracy](#48)
+        * [Confusion Matrix](#49)
 * [Clustering](#17)
     * [PCA](#18)
         * [Creating Model](#32)
@@ -70,11 +86,13 @@ Inveon Information Technologies Consultancy and Trade,
         * [Plotting K-Means with Optimum K](#41)
         * [Plotting with Cluster Centers](#42)
         * [Plotting with Two Different K](#43)
-* [Classification](#20)
-    * [k-NN](#20)
-        * [Finding Optimum K](#44)
-        * [Creating Model with Optimum K](#45)
-        * [Fitting](#46)
-        * [Prediction](#47)
-        * [Accuracy](#48)
-        * [Confusion Matrix](#49)
+    
+# Files
+
+## Jupyter Notebook
+* > *OnlineShoppersIntention.ipynb* - Notebook used to clean, classify and cluster the dataset.
+
+## Dataset
+* > *online_shoppers_intention.csv* - Dataset which we used.
+
+
