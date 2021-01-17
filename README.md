@@ -39,7 +39,7 @@ Inveon Information Technologies Consultancy and Trade,
     * [Outliers and Removing Them](#12)
     * [Correlation on Categoricals](#13)
     * [Changing Type Of Some Columns to Prepare the Models](#13)
-* [Regression](#14)
+* [Classification](#14)
     * [SGDClassifier](#15)
         * [Creating Model](#21)
         * [Fitting](#22)
