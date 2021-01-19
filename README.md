@@ -130,7 +130,12 @@ Sakar, C.O., Polat, S.O., Katircioglu, M. et al. Neural Comput & Applic (2018)
 ## Jupyter Notebook
 * > *OnlineShoppersIntention.ipynb* - Notebook used to clean, classify and cluster the dataset.
 
+## Txt
+* > *requirements.txt* - Includes the modules which we used, and its version.
+
 ## Dataset
 * > *online_shoppers_intention.csv* - Dataset which we used.
+* > *online_shoppers_intention_cleaned.csv* - Cleaned data set refer that last status, before classification
+
 
 
