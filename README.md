@@ -5,10 +5,13 @@ This repository includes our 2020-2021 Fall Semester Data Mining(CENG3521) Class
 
 ## Team Members(Sorted by Name)
 * Ahmet GÜRBÜZ(170709006)
+   -> Principal Component Analysis(PCA) + Clustering(K-Means)
 * Murat GÜN(170709054)
+   -> Classification(SGDClassifier + MLPClassifier)
 * Onur DUMAN(170709056)
+   -> Explotary Data Analysis(EDA) + Classification(k-NN)
 
-# About The Online Shoppers Intention Dataset
+# Description of The Online Shoppers Intention Dataset
 
 ![1](https://www.further.co.uk/wp-content/uploads/2019/04/onlineshoppers002.jpg)
 
@@ -16,6 +19,27 @@ This repository includes our 2020-2021 Fall Semester Data Mining(CENG3521) Class
 
 The dataset consists of feature vectors belonging to 12,330 sessions.
 The dataset was formed so that each session would belong to a different user in a 1-year period to avoidany tendency to a specific campaign, special day, user profile, or period.
+
+## Description of The Features
+
+Administrative: This is the number of pages of this type (administrative) that the user visited.
+Administrative_Duration: This is the amount of time spent in this category of pages.
+Informational: This is the number of pages of this type (informational) that the user visited.
+Informational_Duration: This is the amount of time spent in this category of pages.
+ProductRelated: This is the number of pages of this type (product related) that the user visited.
+ProductRelated_Duration: This is the amount of time spent in this category of pages.
+BounceRates: The percentage of visitors who enter the website through that page and exit without triggering any additional tasks.
+ExitRates: The percentage of pageviews on the website that end at that specific page.
+PageValues: The average value of the page averaged over the value of the target page and/or the completion of an eCommerce
+SpecialDay: This value represents the closeness of the browsing date to special days or holidays (eg Mother's Day or Valentine's day) in
+Month: Contains the month the pageview occurred, in string form.
+OperatingSystems: An integer value representing the operating system that the user was on when viewing the page.
+Browser: An integer value representing the browser that the user was using to view the page.
+Region: An integer value representing which region the user is located in.
+TrafficType: An integer value representing what type of traffic the user is categorized into.
+VisitorType: A string representing whether a visitor is New Visitor, Returning Visitor, or Other.
+Weekend: A boolean representing whether the session is on a weekend.
+Revenue: A boolean representing whether or not the user completed the purchase.
 
 ## Dataset Origin:
 
@@ -89,7 +113,7 @@ Sakar, C.O., Polat, S.O., Katircioglu, M. et al. Neural Comput & Applic (2018)
         * [Plotting with Cluster Centers](#42)
         * [Plotting with Two Different K](#43)
     
-# Files
+# Files Structure
 
 ## Jupyter Notebook
 * > *OnlineShoppersIntention.ipynb* - Notebook used to clean, classify and cluster the dataset.
