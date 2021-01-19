@@ -113,6 +113,8 @@ Sakar, C.O., Polat, S.O., Katircioglu, M. et al. Neural Comput & Applic (2018)
         * [Plotting with Cluster Centers](#42)
         * [Plotting with Two Different K](#43)
     
+# Accuray Scores
+![Accuray Scores](https://i.hizliresim.com/St8Mbs.png)
 # Files Structure
 
 ## Jupyter Notebook
