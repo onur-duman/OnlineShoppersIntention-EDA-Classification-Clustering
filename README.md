@@ -5,11 +5,11 @@ This repository includes our 2020-2021 Fall Semester Data Mining(CENG3521) Class
 
 ## Team Members(Sorted by Name)
 * Ahmet GÜRBÜZ(170709006)<br/>
-   -> Principal Component Analysis(PCA) + Clustering(K-Means)
+   * Principal Component Analysis(PCA) + Clustering(K-Means)
 * Murat GÜN(170709054)<br/>
-   -> Classification(SGDClassifier + MLPClassifier)
+   * Classification(SGDClassifier + MLPClassifier)
 * Onur DUMAN(170709056)<br/>
-   -> Explotary Data Analysis(EDA) + Classification(k-NN)
+   * Explotary Data Analysis(EDA) + Classification(k-NN)
 
 # Description of The Online Shoppers Intention Dataset
 
@@ -113,7 +113,7 @@ Sakar, C.O., Polat, S.O., Katircioglu, M. et al. Neural Comput & Applic (2018)
         * [Plotting with Cluster Centers](#42)
         * [Plotting with Two Different K](#43)
     
-# Accuray Scores
+# Accuracy Scores
 ![Accuray Scores](https://i.hizliresim.com/St8Mbs.png)
 # Files Structure
 
