@@ -4,11 +4,11 @@
 This repository includes our 2020-2021 Fall Semester Data Mining(CENG3521) Class Final Project. We've used Python language to code and Jupyter Notebook for IDE. And Numpy, Pandas, Matplotlib, Seaborn and Sklearn are libraries which are used for it.
 
 ## Team Members(Sorted by Name)
-* Ahmet GÜRBÜZ(170709006)
+* Ahmet GÜRBÜZ(170709006)<br/>
    -> Principal Component Analysis(PCA) + Clustering(K-Means)
-* Murat GÜN(170709054)
+* Murat GÜN(170709054)<br/>
    -> Classification(SGDClassifier + MLPClassifier)
-* Onur DUMAN(170709056)
+* Onur DUMAN(170709056)<br/>
    -> Explotary Data Analysis(EDA) + Classification(k-NN)
 
 # Description of The Online Shoppers Intention Dataset
@@ -22,24 +22,24 @@ The dataset was formed so that each session would belong to a different user in 
 
 ## Description of The Features
 
-Administrative: This is the number of pages of this type (administrative) that the user visited.
-Administrative_Duration: This is the amount of time spent in this category of pages.
-Informational: This is the number of pages of this type (informational) that the user visited.
-Informational_Duration: This is the amount of time spent in this category of pages.
-ProductRelated: This is the number of pages of this type (product related) that the user visited.
-ProductRelated_Duration: This is the amount of time spent in this category of pages.
-BounceRates: The percentage of visitors who enter the website through that page and exit without triggering any additional tasks.
-ExitRates: The percentage of pageviews on the website that end at that specific page.
-PageValues: The average value of the page averaged over the value of the target page and/or the completion of an eCommerce
-SpecialDay: This value represents the closeness of the browsing date to special days or holidays (eg Mother's Day or Valentine's day) in
-Month: Contains the month the pageview occurred, in string form.
-OperatingSystems: An integer value representing the operating system that the user was on when viewing the page.
-Browser: An integer value representing the browser that the user was using to view the page.
-Region: An integer value representing which region the user is located in.
-TrafficType: An integer value representing what type of traffic the user is categorized into.
-VisitorType: A string representing whether a visitor is New Visitor, Returning Visitor, or Other.
-Weekend: A boolean representing whether the session is on a weekend.
-Revenue: A boolean representing whether or not the user completed the purchase.
+Administrative: This is the number of pages of this type (administrative) that the user visited. <br/>
+Administrative_Duration: This is the amount of time spent in this category of pages. <br/>
+Informational: This is the number of pages of this type (informational) that the user visited. <br/>
+Informational_Duration: This is the amount of time spent in this category of pages. <br/>
+ProductRelated: This is the number of pages of this type (product related) that the user visited. <br/>
+ProductRelated_Duration: This is the amount of time spent in this category of pages. <br/>
+BounceRates: The percentage of visitors who enter the website through that page and exit without triggering any additional tasks. <br/>
+ExitRates: The percentage of pageviews on the website that end at that specific page. <br/>
+PageValues: The average value of the page averaged over the value of the target page and/or the completion of an eCommerce <br/>
+SpecialDay: This value represents the closeness of the browsing date to special days or holidays (eg Mother's Day or Valentine's day) in <br/>
+Month: Contains the month the pageview occurred, in string form. <br/>
+OperatingSystems: An integer value representing the operating system that the user was on when viewing the page. <br/>
+Browser: An integer value representing the browser that the user was using to view the page. <br/>
+Region: An integer value representing which region the user is located in. <br/>
+TrafficType: An integer value representing what type of traffic the user is categorized into. <br/>
+VisitorType: A string representing whether a visitor is New Visitor, Returning Visitor, or Other. <br/>
+Weekend: A boolean representing whether the session is on a weekend. <br/>
+Revenue: A boolean representing whether or not the user completed the purchase. <br/>
 
 ## Dataset Origin:
 
