@@ -10,6 +10,16 @@ This repository includes our 2020-2021 Fall Semester Data Mining(CENG3521) Class
    * Classification(SGDClassifier + MLPClassifier)
 * Onur DUMAN(170709056)<br/>
    * Explotary Data Analysis(EDA) + Classification(k-NN)
+   
+## Requirements Modules and Its Version
+
+* Python 3.7.4
+
+* Numpy 1.16.5
+* Pandas 0.25.1
+* Matplotlib 3.1.1
+* Seaborn 0.9.0
+* Sklearn 0.21.3
 
 # Description of The Online Shoppers Intention Dataset
 
