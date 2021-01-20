@@ -1,5 +1,5 @@
-Numpy 1.16.5
-Pandas 0.25.1
-Matplotlib 3.1.1
-Seaborn 0.9.0
-Sklearn 0.21.3
+numpy==1.16.5
+pandas==0.25.1
+matplotlib==3.1.1
+seaborn==0.9.0
+sklearn==0.21.3
