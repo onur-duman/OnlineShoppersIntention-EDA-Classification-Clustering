@@ -3,23 +3,27 @@
 # OnlineShoppersIntention-EDA-Classification-Clustering
 This repository includes our 2020-2021 Fall Semester Data Mining(CENG3521) Class Final Project. We've used Python language to code and Jupyter Notebook for IDE. And Numpy, Pandas, Matplotlib, Seaborn and Sklearn are libraries which are used for it.
 
-## Team Members(Sorted by Name)
-* Ahmet GÜRBÜZ(170709006)<br/>
-   * Principal Component Analysis(PCA) + Clustering(K-Means)
-* Murat GÜN(170709054)<br/>
-   * Classification(SGDClassifier + MLPClassifier)
-* Onur DUMAN(170709056)<br/>
-   * Explotary Data Analysis(EDA) + Classification(k-NN)
+## Team Members(sorted by name)
+
+[![Contributors](https://img.shields.io/badge/Contributors-3-green.svg?style=flat-square)](#contributors-)
+
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/ahmtgrbz"><img src="https://avatars0.githubusercontent.com/u/44843548?s=460&v=4" width="100px;" alt=""/><br /><sub><b>Ahmet GÜRBÜZ</b></sub></a><br /><br /><sub><b>P. Component Analysis(PCA)</b></sub></a><br /><sub><b>Clustering(K-Means)</b></sub></a></td>
+    <td align="center"><a href="https://github.com/desxz"><img src="https://avatars1.githubusercontent.com/u/63814984?s=460&u=e54733ff64da68c0013cff94fb45ca81272802de&v=4" width="100px;" alt=""/><br /><sub><b>Murat GUN</b></sub></a><br /><br /><sub><b>Classification(SGDClassifier)</b></sub></a><br /><sub><b>Classification(MLPClassifier)</b></sub></a></td>
+    <td align="center"><a href="https://github.com/onur-duman"><img src="https://avatars1.githubusercontent.com/u/44534189?s=460&u=74a6216bbebfee1609e631f3ce80ab8241bdfc6a&v=4" width="100px;" alt=""/><br /><sub><b>Onur DUMAN</b></sub></a><br /><br /><sub><b>Explotary Data Analysis(EDA)</b></sub></a><br /><sub><b>Classification(k-NN)</b></sub></a></td>
+  </tr>
+</table>
    
 ## Requirements Modules and Its Version
 
-* Python 3.7.4
+* Python `3.7.4`
 
-* Numpy 1.16.5
-* Pandas 0.25.1
-* Matplotlib 3.1.1
-* Seaborn 0.9.0
-* Sklearn 0.21.3
+* Numpy `1.16.5`
+* Pandas `0.25.1`
+* Matplotlib `3.1.1`
+* Seaborn `0.9.0`
+* Sklearn `0.21.3`
 
 # Description of The Online Shoppers Intention Dataset
 
