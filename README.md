@@ -1,4 +1,4 @@
-![Build Status](https://api.travis-ci.com/desxz/OnlineShoppersIntention-EDA-Classification-Clustering.svg?branch=main&status=passed)     [![Contributors](https://img.shields.io/badge/Contributors-3-48c21a.svg?style=flat-square)](#contributors-)
+[![Contributors](https://img.shields.io/badge/Contributors-3-48c21a.svg?style=flat-square)](#contributors-)
 
 # OnlineShoppersIntention-EDA-Classification-Clustering
 This repository includes our 2020-2021 Fall Semester Data Mining(CENG3521) Class Final Project. We've used Python language to code and Jupyter Notebook for IDE. And Numpy, Pandas, Matplotlib, Seaborn and Sklearn are libraries which are used for it.
@@ -130,6 +130,9 @@ Sakar, C.O., Polat, S.O., Katircioglu, M. et al. Neural Comput & Applic (2018)
 # Accuracy Scores
 ![Accuray Scores](https://i.hizliresim.com/FLSRMY.png)
 # Files Structure
+
+## Folder
+* > *Report* - Inculudes project report.
 
 ## Jupyter Notebook
 * > *OnlineShoppersIntention.ipynb* - Notebook used to clean, classify and cluster the dataset.
