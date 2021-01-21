@@ -1,3 +1,4 @@
+![Build Status](https://travis-ci.com/desxz/OnlineShoppersIntention-EDA-Classification-Clustering.svg?branch=main)
 [![Contributors](https://img.shields.io/badge/Contributors-3-48c21a.svg?style=flat-square)](#contributors-)
 
 # OnlineShoppersIntention-EDA-Classification-Clustering
