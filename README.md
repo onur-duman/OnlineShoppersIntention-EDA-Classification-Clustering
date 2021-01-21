@@ -1,4 +1,4 @@
-![Build Status](https://api.travis-ci.com/desxz/OnlineShoppersIntention-EDA-Classification-Clustering.svg?branch=main&status=passed)     [![Contributors](https://img.shields.io/badge/Contributors-3-green.svg?style=flat-square)](#contributors-)
+![Build Status](https://api.travis-ci.com/desxz/OnlineShoppersIntention-EDA-Classification-Clustering.svg?branch=main&status=passed)     [![Contributors](https://img.shields.io/badge/Contributors-3-greenred.svg?style=flat-square)](#contributors-)
 
 # OnlineShoppersIntention-EDA-Classification-Clustering
 This repository includes our 2020-2021 Fall Semester Data Mining(CENG3521) Class Final Project. We've used Python language to code and Jupyter Notebook for IDE. And Numpy, Pandas, Matplotlib, Seaborn and Sklearn are libraries which are used for it.
